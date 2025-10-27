@@ -110,5 +110,5 @@ I love blending **aesthetics and logic**, crafting experiences that are both fun
 ---
 
 <p align="center">
-  <sub>Designed with 🎯🎖️ by <strong>Trhas Gebremedhin</strong> — Adaptive & Interactive GitHub Profile</sub>
+  <sub>Designed with 🎯🎖️ by <strong>Trhas Gebremedhin</strong></sub>
 </p>
