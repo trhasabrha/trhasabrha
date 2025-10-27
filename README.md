@@ -28,8 +28,8 @@ I love blending **aesthetics and logic**, crafting experiences that are both fun
 
 - 🎓 3rd-year CS student (GPA: 3.95)  
 - 🚀 Exploring **React Native**, **Expo**, and **Convex**  
-- 💡 Founder of *Code-Morph*, building the **Yegna-Path** peer-learning plugin  
-- 🧠 Learning **Prompt Engineering** and **AI-assisted design**  
+- 💡 Building peer-learning plugins  and platforms
+- 🧠 Learning **Prompt Engineering**, **virtual assistance** and **AI-assisted design**  
 - 🎨 Creating Pinterest content focused on beauty, wellness, and productivity  
 - 🌟 *“Code it beautifully — design it meaningfully.”*
 
